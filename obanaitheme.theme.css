@@ -10,6 +10,7 @@
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #000000;
@@ -17,7 +18,7 @@
   --success-color: #31616A;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --background-image: url('https://i.imgur.com/W3ySu4h.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -30,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/QsPmIQG.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -64,7 +65,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   --main-font: Whitney;
-  --code-font: Consolas;
+  --code-font: Whitney;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
